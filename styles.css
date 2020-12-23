@@ -114,6 +114,10 @@ hr{
     text-align: center;
     color: white;
     border-top-right-radius: 1rem;
+    clear:both;
+    position: relative;
+    height: 200px;
+    /* margin-top: -200px; */
 
 }
 
