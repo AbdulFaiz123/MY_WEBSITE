@@ -12,6 +12,9 @@ body{
     margin-right: 0px;
     
 }
+html,body{
+    overflow-x: hidden;
+}
 hr{
     margin: 2rem 0rem;
 }
@@ -61,8 +64,7 @@ hr{
     color: white;
     padding: 1rem;
     border-bottom-left-radius: 1rem;
-    border-width: 100%;
-   
+  
     
 
 }
