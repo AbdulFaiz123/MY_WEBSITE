@@ -118,7 +118,7 @@ hr{
 
 .footer{
     background-color:var(--footer-black);
-    padding: 2rem 0rem;
+    padding: 1rem;
     text-align: center;
     color: white;
     border-top-right-radius: 1rem;
@@ -127,8 +127,27 @@ hr{
     
     float: left;
     width: 100%;
+    bottom: 0;
     /* margin-top: -200px; */
 
+}
+.footer-blogs{
+    background-color:var(--footer-black);
+    padding: 1rem;
+    text-align: center;
+    color: white;
+    border-top-right-radius: 1rem;
+    clear:both;
+    position: fixed;
+    
+    float: left;
+    width: 100%;
+    bottom: 0;
+    /* margin-top: -200px; */
+
+}
+.footer-blogs .link{
+    color: white;
 }
 
 .footer .link{
