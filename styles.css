@@ -118,16 +118,16 @@ hr{
 
 .footer{
     background-color:var(--footer-black);
-    padding: 1rem;
+    padding: 2rem 1rem;
     text-align: center;
     color: white;
     border-top-right-radius: 1rem;
     clear:both;
-    position: relative;
+    /* position: relative;
     
     float: left;
     width: 100%;
-    bottom: 0;
+    bottom: 0; */
     /* margin-top: -200px; */
 
 }
@@ -160,3 +160,23 @@ hr{
     font-weight: bold;
     font-size: large;
 }
+.showcase-list {
+    
+    padding: 1rem;
+    border-radius: 1rem;
+
+    margin: 3rem auto;
+  }
+  .showcase-list h1 {
+    margin: 0.5rem;
+  }
+  
+  .showcase-list p {
+    padding-bottom: 1rem;
+  }
+  
+  
+  .showcase-blog {
+    padding-bottom: 6rem;
+  }
+  
